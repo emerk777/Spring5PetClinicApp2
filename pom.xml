@@ -36,7 +36,7 @@
         
         <scm>
             <developerConnection>scm:git:https://github.com/emerk777/Spring5PetClinicApp2.git</developerConnection>
-            <tag>Spring5PetClinicApp2-0.0.2</tag>
+            <tag>Spring5PetClinicApp2-0.0.3</tag>
         </scm>
 
 </project>
