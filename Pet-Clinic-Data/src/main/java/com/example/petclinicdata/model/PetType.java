@@ -9,7 +9,7 @@ package com.example.petclinicdata.model;
  *
  * @author emer
  */
-class PetType {
+public class PetType {
         
     private String name;
 
