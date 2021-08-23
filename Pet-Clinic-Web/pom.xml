@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>petclinicweb</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>pet-clinic-web</name>
 	<description>Web Maven Module for Pet Clinic App</description>
 	<properties>
