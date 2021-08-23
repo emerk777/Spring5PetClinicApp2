@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
     <artifactId>Spring5PetClinicApp2</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <packaging>pom</packaging>
     <modules>
         <module>Pet-Clinic-Data</module>
@@ -36,7 +36,7 @@
         
         <scm>
             <developerConnection>scm:git:https://github.com/emerk777/Spring5PetClinicApp2.git</developerConnection>
-            <tag>Spring5PetClinicApp2-0.0.3</tag>
+            <tag>Spring5PetClinicApp2-0.0.4</tag>
         </scm>
 
 </project>

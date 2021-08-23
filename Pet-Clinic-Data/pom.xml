@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>petclinicdata</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<name>pet-clinic-data</name>
 	<description>Module 2 for Pet Clinic App</description>
 	<properties>
@@ -74,6 +74,6 @@
 
 
   <scm>
-    <tag>Spring5PetClinicApp2-0.0.3</tag>
+    <tag>Spring5PetClinicApp2-0.0.4</tag>
   </scm>
 </project>
