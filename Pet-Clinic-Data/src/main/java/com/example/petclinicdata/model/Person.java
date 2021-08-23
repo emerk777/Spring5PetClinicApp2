@@ -9,7 +9,7 @@ package com.example.petclinicdata.model;
  *
  * @author emer
  */
-class Person {
+class Person extends BaseEntity{
     
     private String firstName;
     private String lastName;
