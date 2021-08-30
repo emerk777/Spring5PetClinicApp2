@@ -12,9 +12,9 @@
 	<version>0.0.5-SNAPSHOT</version>
 	<name>pet-clinic-web</name>
 	<description>Web Maven Module for Pet Clinic App</description>
-	<properties>
+<!--	<properties>
 		<java.version>1.8</java.version>
-	</properties>
+	</properties>-->
 	<dependencies>
             
             	<dependency>

@@ -5,15 +5,22 @@
  */
 package com.example.petclinicdata.services;
 
-import com.example.petclinicdata.model.Owner;
 import java.util.Set;
 
 /**
  *
  * @author emer
  */
-public interface OwnerService extends CrudService{
+public interface CrudService<T, ID> {
     
-    Owner findByLastName(String lastName);
+    Set<T> findAll();
+    
+    T findById(ID id);
+    
+    T save(T object);
+    
+    void delete(T object);
+    
+    void deleteById(ID id);   
     
 }
